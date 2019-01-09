@@ -2,6 +2,7 @@ html {
   font-size: 10px;
   background: url(https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/12/15/dillinger-stephen-odom-27th.jpg);
   background-size:contain;
+  background-repeat: no-repeat;
 }
 body,html {
   margin: 0;
